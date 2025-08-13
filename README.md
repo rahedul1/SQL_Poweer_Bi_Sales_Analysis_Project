@@ -133,7 +133,7 @@ Power BI dashboards were created by connecting directly to SQL Server and design
 
 
 - **Employee & Shipper Analysis**
-![Employee & Shipper Analysis](Images/Employee_&_Shipper-Analysiss.jpg)
+![Employee & Shipper Analysis](Images/Employee_&_Shipper_Analysiss.jpg)
 ---
 
 ##  Tech Stack
