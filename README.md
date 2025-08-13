@@ -121,7 +121,7 @@ Power BI dashboards were created by connecting directly to SQL Server and design
 ## Screenshots
 
 - **Sales Overview**
-![Sales Overview](images/sales_overview.png)
+![Sales Overview](images/Sales Overview.png)
 
 
 - **Product Performance**
